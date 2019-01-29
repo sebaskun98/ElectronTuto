@@ -1,0 +1,25 @@
+{
+  "name": "electrontuto",
+  "version": "0.1.0",
+  "description": "Try to learn Electron with a video tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaskun98/ElectronTuto.git"
+  },
+  "keywords": [
+    "Eletron"
+  ],
+  "author": "sebaskun98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebaskun98/ElectronTuto/issues"
+  },
+  "homepage": "https://github.com/sebaskun98/ElectronTuto#readme",
+  "dependencies": {
+    "electron": "^4.0.2"
+  }
+}
